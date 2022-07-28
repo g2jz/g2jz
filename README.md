@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Pentesting and Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [my Github](https://github.com/g2jz)
+- 👨‍💻 All of my projects are available on [my Github](https://github.com/g2jz)
 
 - 📝 I regularly write articles on [my blog](https://g2jz.github.io/)
 
