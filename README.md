@@ -4,11 +4,19 @@
 
 <br>
 
-- 🌱 I’m currently learning **Pentesting and Ethical Hacking**
+- 🌱  I’m currently learning **Pentesting and Ethical Hacking**
 
-- 👨‍💻 All of my projects are available on [my Github](https://github.com/g2jz)
+- <a href="https://app.hackthebox.com/profile/608536" target="_blank" rel="noreferrer">
+        <img src="./Images/htb.svg" alt="HackTheBox" width="20" height="20"/>
+         My HackTheBox Profile
+    </a>
 
-- 📝 I regularly write articles on [my blog](https://g2jz.github.io/)
+- <a href="https://tryhackme.com/p/g2jz" target="_blank" rel="noreferrer">
+        <img src="./Images/thm.svg" alt="TryHackMe" width="20" height="20"/>
+        My TryHackMe Profile
+    </a>
+
+- 📝  I regularly write articles on [my blog](https://g2jz.github.io/)
 
 <!---
 - 📄 Know about my experiences [g2jzResume](g2jzResume) 
