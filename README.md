@@ -6,6 +6,8 @@
 
 - 🌱  I’m currently learning **Pentesting and Ethical Hacking**
 
+- 📝  I regularly write articles on [my blog](https://g2jz.github.io/)
+
 - <a href="https://app.hackthebox.com/profile/608536" target="_blank" rel="noreferrer">
         <img src="./Images/htb.svg" alt="HackTheBox" width="20" height="20"/>
          My HackTheBox Profile
@@ -15,8 +17,6 @@
         <img src="./Images/thm.svg" alt="TryHackMe" width="20" height="20"/>
         My TryHackMe Profile
     </a>
-
-- 📝  I regularly write articles on [my blog](https://g2jz.github.io/)
 
 <!---
 - 📄 Know about my experiences [g2jzResume](g2jzResume) 
