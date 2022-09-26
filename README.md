@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaizka Martin (g2jz)</h1>
 
-<h3 align="center">Telecommunications Engineer and Cybersecurity Enthusiast</h3>
+<h3 align="center">Telecommunications Engineer | Cybersecurity Enthusiast | CTF Player | Aspiring Pentester</h3>
 
 <br>
 
